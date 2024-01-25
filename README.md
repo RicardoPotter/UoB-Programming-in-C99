@@ -1,23 +1,24 @@
 # UoB-Programming-in-C99
 
+
 ## Foreword
 Repo for **COMSM0110** UoB MSc **Computer** **Science** self-study logs. 
 
-The course starts from 2023 Fall with a formal name **"Programming in C"**, 
+:desktop_computer:The course starts from 2023 Fall with a formal name **"Programming in C"**, 
 
-as one of the three parts of TB1 (Teaching Block One).
+:keyboard:as one of the three parts of TB1 (Teaching Block One).
 
-Also a reference for the coming students of MSc in Computer Science degree study, just in case.
+:computer:Also a reference for the coming students of MSc in Computer Science degree study, just in case.
 
-Some tips for coversion learner of CS based on the UoB course.
+:computer_mouse:Some tips for coversion learner of CS based on the UoB course.
 
-为自己步履维艰、汗流浃背、如芒在背、如鲠在喉的硕士项目留下一点有价值的记录；
+:desktop_computer:为自己步履维艰、汗流浃背、如芒在背、如鲠在喉的硕士项目留下一点有价值的记录；
 
-为真正有热情想要学好计算机、在这个学位项目少走弯路的后来者的一点参考和建议。
+:keyboard:为真正有热情想要学好计算机、在这个学位项目少走弯路的后来者的一点参考和建议。
 
-无论是从功利注意上求分求荣誉学位，
+:computer:无论是从功利注意上求分求荣誉学位，
 
-还是从搭好CS基础，成为一个成熟的码农、coder、programmer、计算机科学研究者等等。
+:computer_mouse:还是从搭好CS基础，成为一个成熟的码农、coder、programmer、计算机科学研究者等等。
 
 ## Content
 ### Resources 
