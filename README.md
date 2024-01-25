@@ -1,3 +1,5 @@
+# UoB-Programming-in-C99
+
 <!-- vscode-markdown-toc -->
 * 1. [Foreword](#Foreword)
 * 2. [Content](#Content)
@@ -12,17 +14,7 @@
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --># UoB-Programming-in-C99
-
----
----
----
-
-
-
-
-
-
+<!-- /vscode-markdown-toc -->
 
 
 ##  1. <a name='Foreword'></a>Foreword
