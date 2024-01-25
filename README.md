@@ -6,7 +6,7 @@
 
 
 ## Foreword
----
+
 Repo for **COMSM0110** UoB MSc **Computer** **Science** self-study logs. 
 
 :desktop_computer:The course starts from 2023 Fall with a formal name **"Programming in C"**, 
@@ -26,7 +26,7 @@ Repo for **COMSM0110** UoB MSc **Computer** **Science** self-study logs.
 :computer_mouse:还是从搭好CS基础，成为一个成熟的码农、coder、programmer、计算机科学研究者等等。
 
 ## Content
----
+
 ### Resources 
 ---
 :point_right:The *Resource* includes the 2023-2024 version of "Programming in C" slides and exercise. Exercise in C file includes the marked assignment and project, but they must be invisible before actual assignment releasing date. (There is a red flag that DONT CALL slides as ppt, experienced lecturer made it by Latex.)
@@ -58,7 +58,7 @@ Repo for **COMSM0110** UoB MSc **Computer** **Science** self-study logs.
 :point_right:*Exercise*里面是完成的能跑通的Exercise in C练习题，通常有我写过的多个能跑通的版本。
 
 ## Tips
----
+
 
 
 
