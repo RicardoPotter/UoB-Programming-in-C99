@@ -1,4 +1,4 @@
-**# UoB-Programming-in-C99**
+# UoB-Programming-in-C99
 Repo for COMSM0110 UoB MSc Computer Science self-study logs. 
 
 The course starts from 2023 Fall with a formal name "Programming in C", 
@@ -17,7 +17,7 @@ Some tips for coversion learner of CS based on the UoB course.
 
 还是从搭好CS基础，成为一个成熟的码农、coder、programmer、计算机科学研究者等等。
 
-**# Content**
+# Content
 The Resources includes the 2023-2024 version of "Programming in C" slides and exercise. Exercise in C file includes the marked assignment and project, but they must be invisible before actual assignment releasing date. (There is a red flag that DONT CALL slides as ppt, experienced lecturer made it by Latex.)
 
 The Extension includes the extended part read and praticed from materials out of the lectures and slides. (The helper practice for me to comprehend Pointer and data structure,)
