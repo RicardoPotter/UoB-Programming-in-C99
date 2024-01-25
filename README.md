@@ -20,14 +20,19 @@ Some tips for coversion learner of CS based on the UoB course.
 还是从搭好CS基础，成为一个成熟的码农、coder、programmer、计算机科学研究者等等。
 
 ## Content
+### Resources 
 The Resources includes the 2023-2024 version of "Programming in C" slides and exercise. Exercise in C file includes the marked assignment and project, but they must be invisible before actual assignment releasing date. (There is a red flag that DONT CALL slides as ppt, experienced lecturer made it by Latex.)
 
+### Extension
 The Extension includes the extended part read and praticed from materials out of the lectures and slides. (The helper practice for me to comprehend Pointer and data structure,)
 
+### Project
 The Project only includes final marked assignment of this year. And only my personal version of achieving the goal。
 
+### Assignment
 The Assignment includes all the marked assignment of this year except for the last one.
 
+### Exercise
 The Exercise includes the completed executable codes (always several edition using different algorithm).
 
 Resource里面是当年度课程的所有Slides(幻灯片，课程讲师Neill非常抵制slides被称为ppt，因为那些都是用LaTex做的)还有平时练习题，打分作业也在Exercise里面，但是公布前一定会被隐藏。
