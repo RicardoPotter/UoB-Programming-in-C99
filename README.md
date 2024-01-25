@@ -1,7 +1,9 @@
 # UoB-Programming-in-C99
 Repo for COMSM0110 UoB MSc Computer Science self-study logs. 
 
-The course start from 2023 Fall with a formal name "Programming in C", as one of the three parts of TB1(Teaching Block One).
+The course starts from 2023 Fall with a formal name "Programming in C", 
+
+as one of the three parts of TB1 (Teaching Block One).
 
 Also a reference for the coming students of MSc in Computer Science degree study, just in case.
 
