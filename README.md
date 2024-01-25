@@ -36,7 +36,7 @@ Project仅仅只包括了当年度课程的期末大项目，并且只是我个�
 
 Assignment里面是当年度课程所有的限时完成打分作业，除了最后一个大项目不在里面。
 
-Exercise里面是完成的能跑通的Exercise in C练习题，通常有多个能跑通的版本
+Exercise里面是完成的能跑通的Exercise in C练习题，通常有我写过的多个能跑通的版本。
 
 #Tips
 
