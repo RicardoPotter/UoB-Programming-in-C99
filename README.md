@@ -27,19 +27,23 @@ Resource里面是当年度课程的所有Slides(幻灯片，课程讲师Neill非
 
 ### Extension
 The Extension includes the extended part read and praticed from materials out of the lectures and slides. (The helper practice for me to comprehend Pointer and data structure,)
+
 Extension里面是我本人在学习过程中阅读课外书籍和博客，进行过的联系和笔记，基本全部用于弥补课程时长不够多讲但是非常重要的部分。(主要就是指针的各种运用和手撕数据结构)。
 
 ### Project
-The Project only includes final marked assignment of this year. And only my personal version of achieving the goal。
-Project仅仅只包括了当年度课程的期末大项目，并且只是我个人的解决方案。
+The *Project* only includes final marked assignment of this year. And only my personal version of achieving the goal。
+
+*Project*仅仅只包括了当年度课程的期末大项目，并且只是我个人的解决方案。
 
 ### Assignment
-The Assignment includes all the marked assignment of this year except for the last one.
-Assignment里面是当年度课程所有的限时完成打分作业，除了最后一个大项目不在里面。
+The *Assignment* includes all the marked assignment of this year except for the last one.
+
+*Assignment*里面是当年度课程所有的限时完成打分作业，除了最后一个大项目不在里面。
 
 ### Exercise
-The Exercise includes the completed executable codes (always several edition using different algorithm).
-Exercise里面是完成的能跑通的Exercise in C练习题，通常有我写过的多个能跑通的版本。
+The *Exercise* includes the completed executable codes (always several edition using different algorithm).
+
+*Exercise*里面是完成的能跑通的Exercise in C练习题，通常有我写过的多个能跑通的版本。
 
 ## Tips
 
