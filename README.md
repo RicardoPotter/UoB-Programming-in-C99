@@ -20,6 +20,7 @@
 ##  1. <a name='Foreword'></a>Foreword
 
 Repo for **COMSM0110** UoB MSc **Computer** **Science** self-study logs. 
+---
 
 :desktop_computer:The course starts from 2023 Fall with a formal name **"Programming in C"**, 
 
